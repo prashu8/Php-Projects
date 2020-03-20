@@ -20,7 +20,7 @@ echo $_SERVER['SCRIPT_NAME'];
 </html>
 
 
-$_SERVER['PHP_SELF']	Returns the filename of the currently executing script
+<!-- $_SERVER['PHP_SELF']	Returns the filename of the currently executing script
 $_SERVER['GATEWAY_INTERFACE']	Returns the version of the Common Gateway Interface (CGI) the server is using
 $_SERVER['SERVER_ADDR']	Returns the IP address of the host server
 $_SERVER['SERVER_NAME']	Returns the name of the host server (such as www.w3schools.com)
@@ -43,4 +43,4 @@ $_SERVER['SERVER_PORT']	Returns the port on the server machine being used by the
 $_SERVER['SERVER_SIGNATURE']	Returns the server version and virtual host name which are added to server-generated pages
 $_SERVER['PATH_TRANSLATED']	Returns the file system based path to the current script
 $_SERVER['SCRIPT_NAME']	Returns the path of the current script
-$_SERVER['SCRIPT_URI']	Returns the URI of the current page
+$_SERVER['SCRIPT_URI']	Returns the URI of the current page -->
